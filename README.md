@@ -77,7 +77,7 @@ sudo service sshd restart
 ```
 
 
-Setting XServer display
+[MobaXterm] XServer display setting
 -----------
 * Change display offset as '11' in the MobaXTerm X Server setting
 ```Shell
@@ -87,7 +87,7 @@ echo $DISPLAY
 ```
 
 
-caja default setting
+[caja] display setting
 -----------
 ```Shell
 sudo gsettings set org.mate.caja.preferences default-folder-viewer 'list-view'
