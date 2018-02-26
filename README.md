@@ -92,6 +92,8 @@ caja default setting
 ```Shell
 sudo gsettings set org.mate.caja.preferences default-folder-viewer 'list-view'
 sudo gsettings set org.mate.caja.list-view default-zoom-level 'smallest'
+sudo gedit /usr/share/applications/caja.desktop
+(Set X-MATE-AutoRestart=false)
 ```
 
 
