@@ -34,6 +34,7 @@ Cheat sheet for tmux
 | delete pane | `^b + x` <br/> `^d` (no warning) |
 | select pane | `^b + arrow_key` |
 | resize pane | `^b + <M-arrow_key>` |
+| maximize pane | `^b + z` |
 
 Color
 -----
